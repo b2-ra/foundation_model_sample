@@ -1,0 +1,7 @@
+[
+  { "patientId": "P001", "medicineName": "アムロジピン5mg", "dose": "1錠", "frequency": 1, "timing": "朝食後", "days": 28 },
+  { "patientId": "P001", "medicineName": "ロキソプロフェン60mg", "dose": "1錠", "frequency": 3, "timing": "毎食後", "days": 7 },
+  { "patientId": "P002", "medicineName": "レボフロキサシン500mg", "dose": "1錠", "frequency": 1, "timing": "朝食後", "days": 5 },
+  { "patientId": "P003", "medicineName": "メトホルミン250mg", "dose": "1錠", "frequency": 2, "timing": "朝夕食後", "days": 30 },
+  { "patientId": "P003", "medicineName": "ランソプラゾール15mg", "dose": "1錠", "frequency": 1, "timing": "就寝前", "days": 30 }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "アムロジピン5mg",
+    "genericName": "amlodipine besilate",
+    "category": "Ca拮抗薬",
+    "effect": "血管を広げて血圧を下げます。高血圧症・狭心症に用いられます。",
+    "caution": "急な立ち上がりでのふらつき、歯肉肥厚に注意。グレープフルーツジュースとの併用を避けます。",
+    "barcodePayload": "4987123456781"
+  },
+  {
+    "name": "ロキソプロフェン60mg",
+    "genericName": "loxoprofen sodium hydrate",
+    "category": "NSAIDs",
+    "effect": "痛みや炎症、発熱を抑えます。",
+    "caution": "空腹時の服用を避けます。胃腸障害・腎機能低下・喘息の既往に注意。",
+    "barcodePayload": "4987123456782"
+  },
+  {
+    "name": "レボフロキサシン500mg",
+    "genericName": "levofloxacin hydrate",
+    "category": "ニューキノロン系抗菌薬",
+    "effect": "細菌のDNA複製を阻害して感染症を治療します。",
+    "caution": "腱障害、QT延長、金属カチオン含有製剤との相互作用に注意。",
+    "barcodePayload": "4987123456783"
+  },
+  {
+    "name": "メトホルミン250mg",
+    "genericName": "metformin hydrochloride",
+    "category": "ビグアナイド系糖尿病薬",
+    "effect": "肝臓での糖新生を抑えて血糖値を下げます。",
+    "caution": "乳酸アシドーシス、造影剤使用前後の休薬に注意。",
+    "barcodePayload": "4987123456784"
+  },
+  {
+    "name": "ランソプラゾール15mg",
+    "genericName": "lansoprazole",
+    "category": "プロトンポンプ阻害薬",
+    "effect": "胃酸の分泌を抑え、胃潰瘍や逆流性食道炎を治療します。",
+    "caution": "長期投与時の骨折リスク、クロピドグレルとの相互作用に注意。",
+    "barcodePayload": "4987123456785"
+  }
+]

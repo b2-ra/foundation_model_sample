@@ -1,0 +1,7 @@
+[
+  { "name": "アムロジピン5mg", "stock": 80, "unit": "錠", "reorderPoint": 100 },
+  { "name": "ロキソプロフェン60mg", "stock": 500, "unit": "錠", "reorderPoint": 200 },
+  { "name": "レボフロキサシン500mg", "stock": 40, "unit": "錠", "reorderPoint": 100 },
+  { "name": "メトホルミン250mg", "stock": 620, "unit": "錠", "reorderPoint": 200 },
+  { "name": "ランソプラゾール15mg", "stock": 95, "unit": "錠", "reorderPoint": 100 }
+]
